@@ -1,3 +1,3 @@
 # BD ZÉ DELIVERY - PROJETO LÓGICO 
 
-![alt text](./BD_Zé_Delivery- Projeto-Lógico.png)
+![alt text](./BD_ZÉ_DELIVERY.png)
